@@ -1,5 +1,3 @@
-import java.util.Scanner
-
 fun main(args: Array<String>){
    convertTemperature(36.50)
 }
